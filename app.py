@@ -16,12 +16,12 @@ import random
 from chatBot import cafeChatbot
 import read_jokes
 app = Flask(__name__)
-
-ai = apiai.ApiAI('031785c4bc4b49adb138af43cd1daab5')
+# YOUR GOOGLE DIALOGFLOW API KEY
+ai = apiai.ApiAI('YOUR GOOGLE DIALOGFLOW API KEY')
 # Channel Access Token
-line_bot_api = LineBotApi('/iQE18nEPdidsHtbTQL1GfivuOgi5Sw9vtJNQ2o8a+F5c9DJvUyTJZLQ3yN02vm+3mO6VevPz7Bbtu92I4Q9aLdshSRQBtLF3egAkzBugmB5QTeZUttOylnBMAefmy5EQRVqylo0OKq8XTX3DdejpAdB04t89/1O/w1cDnyilFU=')
+line_bot_api = LineBotApi('LINE CHANNEL ACCESS TOKEN')
 # Channel Secret
-handler = WebhookHandler('dfc103a47e7f38adf0ab1c808bf68778')
+handler = WebhookHandler('LINE CHANNEL SECRET')
 #man
 men=["https://imgur.com/UQINa8n.jpg",
 "https://imgur.com/3FFrELS.jpg",
