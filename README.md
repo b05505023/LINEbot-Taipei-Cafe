@@ -7,7 +7,7 @@
 ## What can our code do?
 
 ### 1. Reply message with easy casual conversation.
-### ![image](https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/64444986_468651520559340_168681219892969472_n.jpg)
+### <img width="150" height="150" src="https://img-blog.csdn.net/20161028230559575"/>
 ### 2. Reply Daily Heroscope information.
 ### 3. Reply funny jokes.
 ### 4. Reply handsome man or pretty weman images.
