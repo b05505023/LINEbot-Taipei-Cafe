@@ -9,9 +9,12 @@
 ### <img width="50%" height="50%" src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/62356354_310785093204198_2865402944948273152_n.jpg"/>
 
 ### 1. Reply message with easy casual conversation.
-
-### <img src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/pasted%20image%200.png"/> 
+### Using google dialog flow to construct the conversation and it should be linked in App.py. 
+### P.S. How to link?
+### Get "API KEYS Client access token" from dialogflow and put it in App.py in the place that I specified.
+### <img  src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/cut.PNG"/>
 ### <img  src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/pasted%20image%200%20(1).png"/>
+### <img src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/pasted%20image%200.png"/>
 ### <img  width="150%" height="150%" src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/unnamed.png"/>
 
 ### 2. Reply Daily Heroscope information.
