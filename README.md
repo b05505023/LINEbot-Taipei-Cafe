@@ -34,7 +34,7 @@
 
 
 
-## more reference
+## more references
 
 ### https://cafenomad.tw/taipei/list
 ### https://www.daily-zodiac.com/mobile
