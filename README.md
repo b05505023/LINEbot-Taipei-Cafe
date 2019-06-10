@@ -6,7 +6,7 @@
 
 
 ## What can our APP do?
-### <img  src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/pasted%20image%200%20(1).png"/>
+### <img width="50%" height="50%"  src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/pasted%20image%200%20(1).png"/>
 
 ### 1. Reply message with easy casual conversation.
 
