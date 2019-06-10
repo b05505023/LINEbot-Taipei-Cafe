@@ -6,13 +6,13 @@
 
 
 ## What can our APP do?
-### <img width="300" height="300" src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/pasted%20image%200%20(1).png"/>
+### <img  src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/pasted%20image%200%20(1).png"/>
 
 ### 1. Reply message with easy casual conversation.
 
-### <img width="300" height="300" src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/pasted%20image%200.png"/> 
-### <img width="300" height="300" src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/62356354_310785093204198_2865402944948273152_n.jpg"/>
-### <img width="300" height="300" src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/unnamed.png"/>
+### <img src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/pasted%20image%200.png"/> 
+### <img src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/62356354_310785093204198_2865402944948273152_n.jpg"/>
+### <img src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/unnamed.png"/>
 
 ### 2. Reply Daily Heroscope information.
 
