@@ -7,6 +7,8 @@
 
 ### What can our APP do?
 ### <img width="50%" height="50%" src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/62356354_310785093204198_2865402944948273152_n.jpg"/>
+### OUR BOT
+### <img width="50%" height="50%" src="https://github.com/b05505023/LINEbot_Taipei_cafe/blob/master/image/BOT.jpg"/>
 
 ## 1. Reply message with easy casual conversation.
 ### Using google dialog flow to construct the conversation and it should be linked in App.py. 
